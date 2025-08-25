@@ -38,7 +38,55 @@ NEIGHBOURHOOD_DISTANCE_KM = {
     'GOIABEIRAS': 3.2,
     'MARIA ORTIZ': 4.1,
     'PRAIA DO CANTO': 2.9,
-    'ILHA DO PRÍNCIPE': 5.9
+    'ILHA DO PRÍNCIPE': 5.9,
+    'JARDIM DA PENHA': 5.0,
+    'MATA DA PRAIA': 5.0,
+    'PONTAL DE CAMBURI': 5.0,
+    'REPÚBLICA': 5.0,
+    'ANDORINHAS': 5.0,
+    'CONQUISTA': 5.0,
+    'NOVA PALESTINA': 5.0,
+    'DA PENHA': 5.0,
+    'TABUAZEIRO': 5.0,
+    'BENTO FERREIRA': 5.0,
+    'SÃO PEDRO': 5.0,
+    'SANTA MARTHA': 5.0,
+    'SÃO CRISTÓVÃO': 5.0,
+    'GRANDE VITÓRIA': 5.0,
+    'RESISTÊNCIA': 5.0,
+    'ILHA DE SANTA MARIA': 5.0,
+    'ILHA DAS CAIEIRAS': 5.0,
+    'JUCUTUQUARA': 5.0,
+    'MONTE BELO': 5.0,
+    'SÃO BENEDITO': 5.0,
+    'SANTO ANDRÉ': 5.0,
+    'SOLON BORGES': 5.0,
+    'BONFIM': 5.0,
+    'MÁRIO CYPRESTE': 5.0,
+    'SANTO ANTÔNIO': 5.0,
+    'BELA VISTA': 5.0,
+    'PRAIA DO SUÁ': 5.0,
+    'SANTA HELENA': 5.0,
+    'REDENÇÃO': 5.0,
+    'SÃO JOSÉ': 5.0,
+    'GURIGICA': 5.0,
+    'ARIOVALDO FAVALESSA': 5.0,
+    'CARATOÍRA': 5.0,
+    'CONSOLAÇÃO': 5.0,
+    'PARQUE MOSCOSO': 5.0,
+    'DO MOSCOSO': 5.0,
+    'SANTOS DUMONT': 5.0,
+    'SANTA CLARA': 5.0,
+    'SANTA LUÍZA': 5.0,
+    'BARRO VERMELHO': 5.0,
+    'ESTRELINHA': 5.0,
+    'FORTE SÃO JOÃO': 5.0,
+    'FONTE GRANDE': 5.0,
+    'PIEDADE': 5.0,
+    'JESUS DE NAZARETH': 5.0,
+    'ENSEADA DO SUÁ': 5.0,
+    'MORADA DE CAMBURI': 5.0,
+    'SANTOS REIS': 5.0
 }
 
 # Weather categories used for one-hot encoding
@@ -76,6 +124,8 @@ VIZ_CONFIG = {
 }
 
 # Disclaimer Text
+ADMIN_USERNAME = "admin"
+ADMIN_PASSWORD = "admin"
 DISCLAIMER_TEXT = """
 ⚠️ **Disclaimer:** This tool is for demonstration purposes only and not for medical use. 
 Predictions are based on historical data patterns and should not be used to make medical decisions.
