@@ -1130,8 +1130,8 @@ def main():
         
         ### 📞 Contact Information
         - **Project Lead**: yaswanthreddy.project@gmail.com
-        - **Institution**: MSc Research Project
-        - **Supervisor**: [Supervisor Name]
+        - **Institution**: Nottingham Trent University
+        - **Supervisor**: Dr Zoheir Ezziane
         
         ### 📄 License
         This project is part of academic research. Please use responsibly and in accordance with your institution's guidelines.
